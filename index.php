@@ -10,17 +10,17 @@
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
-	<header>
-		<div class="header">
-			<div class="header-inner">
-				<div class="logo">Mogo</div>
+	<header class="header">
+		<div class="container">
+			<div class="header__inner">
+				<div class="header_logo">MoGo</div>
 					
-				<nav>
-					<a href="#">About</a>
-					<a href="#">Service</a>
-					<a href="#">Blog</a>
-					<a href="#">Work</a>
-					<a href="#">Contact</a>
+				<nav class="nav">
+					<a class="nav__link" href="#">About</a>
+					<a class="nav__link" href="#">Service</a>
+					<a class="nav__link" href="#">Blog</a>
+					<a class="nav__link" href="#">Work</a>
+					<a class="nav__link" href="#">Contact</a>
 				</nav>
 			</div>
 			
@@ -28,7 +28,6 @@
 	</header>
 	<div class="intro">
 		<div class="container">
-			<h1>Mogo</h1>
 		</div>
 	</div>
 </body>
