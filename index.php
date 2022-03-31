@@ -10,25 +10,26 @@
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
-	<header class="header">
-		<div class="container">
-			<div class="header__inner">
-				<div class="header_logo">MoGo</div>
-					
-				<nav class="nav">
-					<a class="nav__link" href="#">About</a>
-					<a class="nav__link" href="#">Service</a>
-					<a class="nav__link" href="#">Blog</a>
-					<a class="nav__link" href="#">Work</a>
-					<a class="nav__link" href="#">Contact</a>
-				</nav>
-			</div>
-			
-		</div>
-	</header>
-	<div class="intro">
-		<div class="container">
+<header class="header">
+	<div class="container">
+		<div class="header__inner">
+			<div class="header_logo">MoGo</div>
+			<nav class="nav">
+				<a class="nav__link" href="#">About</a>
+				<a class="nav__link" href="#">Service</a>
+				<a class="nav__link" href="#">Blog</a>
+				<a class="nav__link" href="#">Work</a>
+				<a class="nav__link" href="#">Contact</a>
+			</nav>
 		</div>
 	</div>
+</header>
+<div class="intro">
+	<div class="container">
+		<div class="intro__inner">
+			<div class="intro__title">Welcome to Mogo</div>
+		</div>
+	</div>
+</div>
 </body>
 </html>
